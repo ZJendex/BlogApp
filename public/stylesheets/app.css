@@ -4,3 +4,9 @@ i.icon{
 .container.main{
     margin-top: 7.0em;
 }
+form{
+    margin: 5px;
+}
+#date{
+    font-size: small;
+}
